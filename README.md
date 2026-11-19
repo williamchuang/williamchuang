@@ -14,5 +14,6 @@ Mathematician by training (M.S./M.A. in Mathematics) · [Google Scholar](https:/
 | Linux kernel · squashfs | Error code on the directory header check in lookup | [In review](https://lore.kernel.org/all/20261116233530.47177-1-founder@logarcheon.com/) |
 | Ghidra (NSA) | Decompiler: ARM Thumb locals allocated by `push` ([#9728](https://github.com/NationalSecurityAgency/ghidra/issues/9728)) | [PR #10235 in triage](https://github.com/NationalSecurityAgency/ghidra/pull/10235) |
 | TRIBE v2 (Meta FAIR) | Fix grouped-metric crash in `average_subjects` mode ([#78](https://github.com/facebookresearch/tribev2/issues/78)) | [PR #84 open](https://github.com/facebookresearch/tribev2/pull/84) |
+| TensorFlow Probability (Google) | Upper-tail survival functions of Chi2, Gamma, Beta and Binomial computed without `1 − cdf`, which rounded to 0 ([#2040](https://github.com/tensorflow/probability/issues/2040)) | [PR #2043 open](https://github.com/tensorflow/probability/pull/2043) |
 
 Patches, root-cause analyses and verification artifacts for each kernel submission: [linux-kernel-contributions](https://github.com/williamchuang/linux-kernel-contributions).
