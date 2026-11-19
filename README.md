@@ -9,8 +9,8 @@ Mathematician by training (M.S./M.A. in Mathematics) · [Google Scholar](https:/
 | Project | Change | Status |
 |---|---|---|
 | Linux kernel · GFS2 | NULL-pointer fix in the seek path (`gfs2_glock_dq`) | [Applied by the maintainer](https://lore.kernel.org/all/20261116180002.44336-1-founder@logarcheon.com/T/) |
-| Linux kernel · ext4 | Reject a non-regular boot loader inode in `EXT4_IOC_SWAP_BOOT` | [In review](https://lore.kernel.org/all/20261117061822.3826-1-founder@logarcheon.com/) |
-| Linux kernel · ext4 | Journal credit shortfalls (swap-boot, inline data) | [In review](https://lore.kernel.org/all/20261117052750.2955-1-founder@logarcheon.com/) |
+| Linux kernel · ext4 | Reject a non-regular boot loader inode in `EXT4_IOC_SWAP_BOOT` | [Reviewed-by Jan Kara (SUSE)](https://lore.kernel.org/all/z4f3glvy73z45sm5pzj27id7hlgio7qyjsdft6gmlahd32y2pg@vbig6wh7rwyb/) · awaiting the ext4 maintainer |
+| Linux kernel · ext4 | Journal credit shortfalls (swap-boot, inline data) | [Reviewed-by Jan Kara (SUSE), both patches](https://lore.kernel.org/all/20261117052750.2955-1-founder@logarcheon.com/) · awaiting the ext4 maintainer |
 | Linux kernel · squashfs | Error code on the directory header check in lookup | [In review](https://lore.kernel.org/all/20261116233530.47177-1-founder@logarcheon.com/) |
 | Ghidra (NSA) | Decompiler: ARM Thumb locals allocated by `push` ([#9728](https://github.com/NationalSecurityAgency/ghidra/issues/9728)) | [PR #10235 in triage](https://github.com/NationalSecurityAgency/ghidra/pull/10235) |
 | TRIBE v2 (Meta FAIR) | Fix grouped-metric crash in `average_subjects` mode ([#78](https://github.com/facebookresearch/tribev2/issues/78)) | [PR #84 open](https://github.com/facebookresearch/tribev2/pull/84) |
