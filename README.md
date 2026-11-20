@@ -16,4 +16,4 @@ Mathematician by training (M.S./M.A. in Mathematics) · [Google Scholar](https:/
 | **TensorFlow Probability** (Google) | Upper-tail survival functions of Chi2, Gamma, Beta and Binomial computed without `1 − cdf`, which rounded to 0 ([#2040](https://github.com/tensorflow/probability/issues/2040)) | [PR #2043 open](https://github.com/tensorflow/probability/pull/2043) |
 | **TRIBE v2** (Meta FAIR) | Fix grouped-metric crash in `average_subjects` mode ([#78](https://github.com/facebookresearch/tribev2/issues/78)) | [PR #84 open](https://github.com/facebookresearch/tribev2/pull/84) |
 
-Patches, root-cause analyses and verification artifacts for each kernel submission: [linux-kernel-contributions](https://github.com/williamchuang/linux-kernel-contributions).
+Root-cause analyses, verification artifacts and reproduction scripts: [linux-kernel-contributions](https://github.com/williamchuang/linux-kernel-contributions) (kernel) · [open-source-contributions](https://github.com/williamchuang/open-source-contributions) (other projects).
